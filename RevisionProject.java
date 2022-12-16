@@ -22,6 +22,7 @@ public class RevisionProject {
         System.out.println(" @@@@@@ Git Commands-2");
         System.out.println( " git pull or git fetch");
         System.out.println(" git reset ");
+        System.out.println(" That's done!");
 
     }
 }
